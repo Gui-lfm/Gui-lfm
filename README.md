@@ -6,7 +6,7 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-lfm&layout=compact&theme=react"/>
 </div>
-
+</br>
 <div>
   <img align="center" alt="icone-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
   <img align="center" alt="icone-" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>

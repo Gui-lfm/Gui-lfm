@@ -1,4 +1,6 @@
 
+### Olá, me chamo Guilherme Lucena, desenvolvedor Front-end !! 🌐
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-lfm&layout=compact&theme=react"/>
 </div>

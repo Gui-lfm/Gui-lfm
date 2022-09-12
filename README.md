@@ -1,5 +1,5 @@
 
-### Olá, me chamo Guilherme Lucena, desenvolvedor Front-end !! 🌐
+### Olá, me chamo Guilherme Lucena, atualmente estou em transição de carreira e estou estudando desenvolvimento web !🌐
 
 ##
 

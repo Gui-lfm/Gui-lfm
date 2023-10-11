@@ -19,8 +19,8 @@
   <img align="center" alt="icone-tecnologia" height="40" width="50" title="Reactjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" alt="icone-tecnologia" height="40" width="50" title="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="icone-tecnologia" height="40" width="50" title="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  <img  align="center" alt="icone-tecnologia" height="70" width="80" title="TailWind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
- 
+  <img align="center" alt="icone-tecnologia" height="70" width="80" title="TailWind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img align="center" alt="icone-tecnologia" height="50" width="60" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 </div>
 
 ##

@@ -1,12 +1,13 @@
 
 ### Olá, me chamo Guilherme Lucena, sou desenvolvedor Full Stack com foco em back-end pela Trybe!🌐
 
-##
-
-<div>
+<div >
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-lfm&layout=compact&theme=react"/>
 </div>
 </br>
+
+## 🛠️ My Stacks:
+
 <div>
   <img align="center" alt="icone-tecnologia" height="50" width="60" title="Node js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="icone-tecnologia" height="40" width="50" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
